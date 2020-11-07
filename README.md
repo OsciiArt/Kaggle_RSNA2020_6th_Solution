@@ -1,7 +1,7 @@
 # Kaggle_RSNA2020_6th_Solution
 
 This is repository of the 6th place solution of [kaggle RSNA STR Pulmonary Embolism Detection](https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection).  
-The discription of this solution is available [here]().  
+The discription of this solution is available [here](https://www.kaggle.com/c/rsna-str-pulmonary-embolism-detection/discussion/195865).  
 The prediction notebook in the competition is available [here](https://www.kaggle.com/osciiart/rsna2020-final-sub2?scriptVersionId=45543346).  
 # Enviroment
 Google Cloud Platform
